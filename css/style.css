@@ -319,7 +319,7 @@ h6,
 }
 
 .bg-testimonial {
-    background: url(../img/carousel-2.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .4), rgba(9, 30, 62, .4)), url(../img/carousel-3.jpg) center center no-repeat;
     background-size: cover;
 }
 
